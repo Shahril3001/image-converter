@@ -1,6 +1,6 @@
 # 🖼️ Image Format Converter API
 
-A lightweight and secure Node.js backend that lets you upload images (`.jpg`, `.png`, `.webp`) and convert them into another format using the [`sharp`](https://github.com/lovell/sharp) image processing library. Supports batch uploads, auto-deletion, and MIME validation.
+A lightweight and secure Node.js backend that lets you upload images (`.jpg`, `.png`, `.webp`) and convert them into another format using the [`sharp`](https://github.com/lovell/sharp) image processing library. Supports batch uploads and auto-deletion.
 
 ---
 
@@ -14,10 +14,3 @@ A lightweight and secure Node.js backend that lets you upload images (`.jpg`, `.
 - ⚙️ Batch processing with concurrency control
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-npm install
